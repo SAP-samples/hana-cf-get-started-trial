@@ -1,0 +1,18 @@
+ID: hana-trial
+_schema-version: '2.1'
+version: 0.0.1
+modules:
+  - name: db
+    type: hdb
+    path: db
+    requires:
+      - name: hdi_db
+resources:
+  - name: hdi_db
+    parameters:
+      config:
+        schema: DB
+      service-name: my-hdi
+    properties:
+      hdi-container-name: '${service-name}'
+    type: com.sap.xs.hdi-container

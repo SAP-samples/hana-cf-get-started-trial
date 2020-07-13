@@ -1,7 +1,7 @@
 # Try Advanced Analytics with SAP HANA
 
 # Description
-This repository is the starting point for the tutorial [Help Thomas Get Started with SAP HANA](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html). This tutorial explains how to get an account on SAP Cloud Platform and create database artifacts in SAP HANA.
+This repository is the starting point for the tutorial [Help Thomas Get Started with SAP HANA](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html). This tutorial explains how to get an account on SAP Cloud Platform and create database artifacts in SAP HANA Cloud.
 
 # Requirements
 The tutorial will guide you to create or log in to an SAP Cloud Platform trial account. The repository and steps after logging in to SAP Web IDE can also be completed in SAP HANA, express edition.

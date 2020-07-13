@@ -1,0 +1,7 @@
+graph workspace HANA_GRAPH
+  edge table LEARNING_RELATION
+    source column SOURCE
+    target column TARGET
+    key column ID
+  vertex table DEVS
+    key column DEVNAME

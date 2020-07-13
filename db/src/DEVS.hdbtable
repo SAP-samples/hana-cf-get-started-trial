@@ -1,0 +1,7 @@
+column table "DEVS"(
+  "DEVNAME" nvarchar(100) PRIMARY KEY,
+  "LEARNS_FROM" nvarchar(100),
+  "HINT_TEXT" nvarchar(1000),
+  "CITY" nvarchar(100),
+  "LON_LAT" nvarchar(200)
+)

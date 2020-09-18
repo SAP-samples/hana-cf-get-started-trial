@@ -1,5 +1,7 @@
 # Try Advanced Analytics with SAP HANA
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cf-get-started-trial)](https://api.reuse.software/info/github.com/SAP-samples/hana-cf-get-started-trial)
+
 # Description
 This repository is the starting point for the tutorial [Help Thomas Get Started with SAP HANA](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html). This tutorial explains how to get an account on SAP Cloud Platform and create database artifacts in SAP HANA Cloud.
 

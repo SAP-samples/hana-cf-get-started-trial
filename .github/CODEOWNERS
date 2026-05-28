@@ -1,0 +1,5 @@
+# Default code owners for this repository.
+# Pull requests touching any path require review from the listed team.
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @SAP-samples/hana-cf-get-started-trial-admin
